@@ -31,7 +31,7 @@ I'm a brazilian specialist in Information Technology Management
 
 ## GitHub Analytics
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/JDNeto84&theme=default&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/JDNeto84&theme=default&layout=compact&langs_count=5">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/JDNeto84&theme=default">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JDNeto84&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDNeto84&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JDNeto84&theme=default">
 </div>
