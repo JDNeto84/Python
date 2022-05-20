@@ -1,1 +1,1 @@
-**Exercicios de atividades de Python**
+**Python activity exercises**
