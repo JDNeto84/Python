@@ -7,7 +7,7 @@
 ## 👋 Hello World
 I'm a brazilian specialist in Information Technology Management
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/JDNeto84&theme=default&color=blue&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=JDNeto84&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
 🔭&nbsp;I'm currently studying  **programming language**
