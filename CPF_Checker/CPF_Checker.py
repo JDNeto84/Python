@@ -26,7 +26,7 @@ if CPF_Input[0] == CPF_Input[1] and CPF_Input[1] == CPF_Input[2] and CPF_Input[2
 # Verifica se o CPF é valido
 elif listSum1 == CPF_Input[9] and listSum2 == CPF_Input[10]:
     print(f"\nO CPF: {''.join(map(str, CPF_Input))} é valido!\n")
-#
+# Retorno do CPF invalido!
 else:
     print(f"\nO CPF: {''.join(map(str, CPF_Input))} não é valido!\n")
 
