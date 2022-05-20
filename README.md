@@ -7,7 +7,7 @@
 ## 👋 Hello World
 I'm a brazilian specialist in Information Technology Management
 
-![Profile Views](https://komarev.com/ghpvc/?username=JDNeto84@gmail.com&theme=default&color=blue&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=JDNeto84&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
 🔭&nbsp;I'm currently studying  **programming language**
@@ -18,7 +18,7 @@ I'm a brazilian specialist in Information Technology Management
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>⚡&nbsp;Fun fact **I'm not that funny**
 <br/>📫&nbsp;Reach me [jdneto84@gmail.com](mailto:jdneto84@gmail.com)
-<br/>🖥&nbsp; See my portfolio at [https://www.linkedin.com/in/joaodavidneto/](www.https://www.linkedin.com/in/joaodavidneto/)
+
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache" alt="apache Badge" height="25">&nbsp;
